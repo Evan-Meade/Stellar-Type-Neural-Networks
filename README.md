@@ -3,9 +3,9 @@ Completed as part of a project for the Fall 2019 section of PHYS 3330: Numerical
 
 Group: [Victoria Catlett](https://github.com/vcatlett), [Amanda Ehnis](https://github.com/anehnis), and [Evan Meade](https://github.com/Evan-Meade)
 
-Our project report is included in this repository as ```Report_Catlett_Ehnis_Meade.pdf```, which contains a full description of the projects and our sources. 
+Our project report is included in this repository as ```Report_Catlett_Ehnis_Meade.pdf```, which contains a full description of the projects and our sources. Essentially, this project explored the implementation of neural networks in MatLab using both built-in and custom methods. The networks were used to solve different astrophysical classification problems.
 
-This repository serves as an appendix to our report. All of the code in this directory was created in MatLab.
+This repository serves as an appendix to our report, containing only the final versions of our code. All of the code in this repository was created in MatLab.
 
 ```Classification_Stars``` contains the scripts and data to create a classification neural network which estimates the spectral type of a star from its B-V color index and absolute magnitude.
 

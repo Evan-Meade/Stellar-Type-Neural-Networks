@@ -1,4 +1,4 @@
-## Stellar Classification with a Classification Neural Network
+## Spectral Typing Stars with a Classification Neural Network
 
 This is an example of a simple classification neural network applied on a modified version of the data from the [HYG Database](http://www.astronexus.com/hyg). Details of the network and sources can be found in our report.
 
